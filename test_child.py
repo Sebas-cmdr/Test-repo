@@ -1,1 +1,1 @@
-print("Test_child")
+print("Test_child_anew")
